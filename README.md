@@ -1,6 +1,2 @@
 # NLP-begin
-```python
-def f(x):
-  return x
-
-```
+This is a beginner's notebook for NLP learning.
